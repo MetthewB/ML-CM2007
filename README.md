@@ -1,6 +1,3 @@
-Absolutely! Here’s the entire README in a single markdown cell:
-
-````markdown
 # Applied Machine Learning for Performance Analysis
 
 This project applies machine learning techniques to analyze and classify human movement data. It focuses on three core tasks: **Human Activity Recognition**, **Fall Detection**, and **Fitness Activity Classification**.
@@ -18,7 +15,7 @@ This project applies machine learning techniques to analyze and classify human m
    ```bash
    git clone https://github.com/yourusername/performance-ml.git
    cd performance-ml
-````
+   ````
 
 2. Install dependencies:
 
@@ -35,8 +32,3 @@ Data can be imported from public sources like [UCI HAR](https://archive.ics.uci.
 ## Results
 
 Model performance and confusion matrices are saved in the `results/` folder.
-
-```
-
-You can paste this directly into a Jupyter notebook markdown cell or a `README.md` file.
-```
